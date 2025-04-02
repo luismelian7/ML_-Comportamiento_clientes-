@@ -1,2 +1,2 @@
 # ML_-Comportamiento_clientes-
-Este trabajo trata sobre un modelo de machine learning cuyo objetivo será agrupar a los clientes de una compañía en segmentos con comportamientos y características similares para predecir sus comportamientos y personalizar campañas de marketing
+Como objetivo principal de este modelo de Machine Learning es clasificar a distintos tipos de personas (clientes) con técnicas de clustering utilizando como datos a distintos clientes de un centro comercial escogidos aletoriamente. Este modelo es útil para que las empresas puedan adaptar sus productos y servicios a las distintas necesidades de cada grupo de clientes clasficados en el modelo.
